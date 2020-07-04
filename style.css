@@ -1,11 +1,20 @@
-
-.container {
-    height:100%;
-    text-align: center;
-    padding: 20px;
-    margin: 15px;
-   
+body{
+ display: block;
+ margin:8px;
 }
+.container {
+  width: 900px;
+  margin: 15px auto;
+  padding: 50px 30px 10px 30px;
+  background: #ffffff;
+  line-height: 23px;
+  border-radius: 10px 10px;
+  overflow: hidden;
+}
+div{
+  display: block;
+}
+
 .row{
     align-content: center;
 }
@@ -125,7 +134,12 @@ h4 {
     margin-top: 15px;
 }
 
-#resetColoLink{
-  align-items: left;
+#resetColoLink {
+  width: auto;
+  align-self: flex-start;
 
+}
+#showAllLink {
+ width: auto;
+ align-self: flex-end;
 }
