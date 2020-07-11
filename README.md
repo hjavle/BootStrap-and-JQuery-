@@ -1,15 +1,18 @@
 # 03 BootStrap and JQuery Home work
 ------------------------------------------------------------------------------------------------
-Change box buttons should Change the color and border of corresponding box to Any color
-Hide box buttons should hide the corresponding box
-Reset buttons should Change the colors back to the default
-show all buttons should show all boxes
+Change box buttons should Change the color and border of corresponding box to any color.
+
+Hide box buttons should hide the corresponding box.
+
+Reset buttons should Change the colors back to the default.
+
+show all buttons should show all boxes.
 
 ## Directions
 
  Design is created using the Bootstrap CSS and Jquery Framework. 
 
-It includes following file `index.html`, `style.html`in `CSS folder` and `script.js`in `JS`.
+It includes following file `index.html`, `style.html`in `CSS folder` and `script.js`in `JS folder`.
 
 The contents of the page have 
 
