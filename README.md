@@ -107,6 +107,9 @@ When I press Reset Colors.
 
 Boxes with original color and border styles will appear back on screen.
 ```
+### App
+![Color Change boxes](./colorchange_jQ.gif)
+
 ## Review
 
 You are required to submit the following for review:
