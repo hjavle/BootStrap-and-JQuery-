@@ -1,4 +1,6 @@
-# 03 BootStrap and JQuery Home work
+# 03 BootStrap and JQuery Buttons
+
+<img src="https://img.shields.io/badge/html-48.8%25-green"> <img src= "https://img.shields.io/badge/css-32.8%25-green"> <img src= "https://img.shields.io/badge/JavaScript-23.4%25-green"> 
 ------------------------------------------------------------------------------------------------
 Change box buttons should Change the color and border of corresponding box to any color.
 
